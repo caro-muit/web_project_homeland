@@ -10,3 +10,9 @@
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: "Inter" sans-serif;
+  src: url("../fonts/Inter_web/Inter-SemiBold.woff2") format("format");
+  font-weight: 600;
+  font-style: normal;
+}

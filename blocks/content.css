@@ -1,14 +1,15 @@
 .content__intro {
-  max-width: 64.84%;
+  max-width: 830px;
   height: auto;
   display: flex;
   flex-direction: column;
   text-align: start;
-  margin: 0 148px 132px;
+  margin: 0;
+  margin-left: 148px;
 }
 .content__intro_title {
   margin: 0;
-  max-width: 64.84%;
+  max-width: 100%;
   max-height: auto;
   font-family: "Inter", sans-serif;
   font-weight: 900;
@@ -22,14 +23,14 @@
   font-weight: 400;
   font-size: 24px;
   line-height: 1.4;
-  max-width: 57.65%;
+  max-width: 88.91%;
   max-height: auto;
   margin-bottom: 10px;
 }
 .content__intro_author {
   margin: 0;
   text-align: right;
-  max-width: 57.18%;
+  max-width: 88.19%;
   max-height: auto;
   font-family: "Inter", sans-serif;
   font-weight: 400;
@@ -38,12 +39,12 @@
   margin-bottom: 31.99px;
 }
 .content__intro_paragraph {
-  margin: 0;
+  margin: 0 0 118px;
   font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.63;
-  max-width: 56.4%;
+  max-width: 86.98%;
   max-height: auto;
 }
 @media (max-width: 1024px) {
